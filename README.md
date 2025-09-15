@@ -19,6 +19,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building mode
 - **Database**: MongoDB, PostgreSQL
 - **Tools**: Git, Docker, VS Code
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js, ts, react, express, nodejs, nestjs, mongodb, git, docker, vscode" />
+  </a>
+</p>
 
 ## 📈 GitHub Stats
 
