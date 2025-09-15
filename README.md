@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building mode
 ## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anh-Tuan1412)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anh-Tuan1412)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌐 Connect with Me
 
