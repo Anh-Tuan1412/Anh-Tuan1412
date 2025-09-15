@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there, I'm Anh Tuan!
 
-<!--
-**Anh-Tuan1412/Anh-Tuan1412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer who loves building modern web applications and exploring new technologies. Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **React, Vite, and modern JavaScript frameworks**.
+- 💻 I enjoy working on **full-stack projects** and creating responsive, user-friendly designs.
+- 📱 I’m also exploring **mobile app development** using frameworks React Native.
+- 🎯 My goal is to contribute to open-source projects and collaborate with developers worldwide.
+- 📚 I love reading about **fiction**, **software architecture**, and **app development trends**.
+
+## 🛠️ Tech Stack
+
+- **Languages**: JavaScript (ES6+), TypeScript, Java
+- **Frontend**: React, Vite, Tailwind CSS
+- **Mobile Development**: React Native, Flutter
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, PostgreSQL
+- **Tools**: Git, Docker, VS Code
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 🌟 [Portfolio](https://your-portfolio-link.com)
+- 📧 Email: maianhtuan06022005@gmail.com
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and leave a ⭐ if you find something interesting!
