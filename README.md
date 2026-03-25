@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building mode
 
 - 🌱 I’m currently learning **React, Vite, and modern JavaScript frameworks**.
 - 💻 I enjoy working on **full-stack projects** and creating responsive, user-friendly designs.
-- 📱 I’m also exploring **mobile app development** using frameworks React Native.
 - 🎯 My goal is to contribute to open-source projects and collaborate with developers worldwide.
 - 📚 I love reading about **fiction**, **software architecture**, and **app development trends**.
 
@@ -14,7 +13,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building mode
 
 - **Languages**: JavaScript (ES6+), TypeScript, Java
 - **Frontend**: React, Vite, Tailwind CSS
-- **Mobile Development**: React Native, Flutter
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, PostgreSQL
 - **Tools**: Git, Docker, VS Code
