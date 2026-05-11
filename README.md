@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building mode
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **React, Vite, and modern JavaScript frameworks**.
+- 🌱 I’m currently learning **React, NestJS, ExpressJS, and modern JavaScript frameworks**.
 - 💻 I enjoy working on **full-stack projects** and creating responsive, user-friendly designs.
 - 🎯 My goal is to contribute to open-source projects and collaborate with developers worldwide.
 - 📚 I love reading about **fiction**, **software architecture**, and **app development trends**.
